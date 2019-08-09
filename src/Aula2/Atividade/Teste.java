@@ -1,4 +1,4 @@
 package Aula2.Atividade;
 
-public class Triangulo {
+public class Teste {
 }
